@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "off_fog",
+		"description": "",
+		"uuid": "361f11bf-012a-48ab-9c89-76d1516cbe57",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "72b02243-e9cf-47ed-8187-566ba5364a65",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
