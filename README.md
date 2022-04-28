@@ -1,2 +1,2 @@
 ### Off-Fog
-A Pack That Removes Fog Minecraft bedrock edition
+A reasourcepack that removes fog (Minecraft bedrock edition)
