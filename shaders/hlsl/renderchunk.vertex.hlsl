@@ -112,6 +112,6 @@ void main(in VS_Input VSInput, out PS_Input PSInput)
 		float alphaFadeOut = clamp(cameraDist, 0.0, 1.0);
 		PSInput.color.a = lerp(VSInput.color.a, 1.0, alphaFadeOut);
 	}
-#endif //VSH
+#endif
 
 }
