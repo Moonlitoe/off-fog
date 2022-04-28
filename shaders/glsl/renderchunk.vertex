@@ -100,5 +100,5 @@ void main(){
 	#ifndef FOG
 		color.rgb += FOG_COLOR.rgb * 0.000001;
 	#endif
-#endif //VSH
+#endif
 }
